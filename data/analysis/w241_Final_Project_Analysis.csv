@@ -1,0 +1,392 @@
+id,age,gender,ethnicity,eth_other,education,insurance,health_score,checkup_freq,vaccine_belief,treatment_video,treatment_quiz,quiz_score,outcome_nfid,outcome_nami,treatment,treatment_group,age.bin,belief.bin
+1,20,Male,White,"",High School degree or equivalent,Yes,8,Once a year,10,0,0,0,0.6,0.4,0,control,0,2
+2,22,Male,White,"",High School degree or equivalent,No,7,Once a year,6,0,1,6,0.5,0.5,1,quiz,0,0
+3,20,Female,White,"",High School degree or equivalent,Yes,6,Once a year,6,0,1,5,0.5,0.5,1,quiz,0,0
+4,26,Female,Asian,"",Bachelor’s degree,Yes,8,Once a year,10,0,0,0,0.1,0.9,0,control,0,2
+5,44,Male,White,"",High School degree or equivalent,Yes,8,Once in 6 months,7,1,0,0,0.6,0.4,1,video,1,1
+6,33,Male,White,"",Bachelor’s degree,Yes,9,Once a year,10,0,0,0,1,0,0,control,0,2
+7,44,Female,White,"",Bachelor’s degree,Yes,9,Only when necessary,7,0,0,0,0.5,0.5,0,control,1,1
+8,32,Female,White,"",Master’s degree,Yes,6,Once a year,6,0,0,0,0.3,0.7,0,control,0,0
+9,22,Male,Asian,"",High School degree or equivalent,No,9,Never,9,1,0,0,0.8,0.2,1,video,0,2
+10,30,Female,Hispanic or Latino,"",Master’s degree,Yes,7,Once a year,4,0,0,0,0.5,0.5,0,control,0,0
+11,21,Male,Asian,"",High School degree or equivalent,Yes,8,Once a year,10,0,1,3,0.5,0.5,1,quiz,0,2
+12,34,Female,White,"",Doctorate,Yes,9,Only when necessary,8,1,0,0,1,0,1,video,0,1
+13,81,Female,White,"",Bachelor’s degree,Yes,7,Only when necessary,10,0,0,0,0.51,0.49,0,control,1,2
+14,31,Female,White,"",Bachelor’s degree,Yes,5,Once in 3 months,9,0,0,0,0.59,0.41,0,control,0,2
+15,20,Female,White,"",High School degree or equivalent,Yes,7,Once a year,10,0,1,4,0.5,0.5,1,quiz,0,2
+16,21,Male,Hispanic or Latino,"",High School degree or equivalent,Yes,7,Once in 6 months,10,0,0,0,0.5,0.5,0,control,0,2
+17,31,Female,White,"",Bachelor’s degree,Yes,6,Only when necessary,5,0,0,0,0.5,0.5,0,control,0,0
+18,31,Male,White,"",High School degree or equivalent,No,9,Never,7,0,0,0,0.5,0.5,0,control,0,1
+19,29,Female,White,"",Bachelor’s degree,Yes,8,Once a year,10,0,0,0,0.25,0.75,0,control,0,2
+20,28,Male,White,"",Bachelor’s degree,Yes,7,Once a year,8,0,1,5,0.61,0.39,1,quiz,0,1
+21,30,Female,White,"",Bachelor’s degree,Yes,9,Once a year,7,1,0,0,1,0,1,video,0,1
+22,28,Male,White,"",Bachelor’s degree,No,5,Only when necessary,6,0,0,0,0.5,0.5,0,control,0,0
+23,26,Female,Asian,"",Bachelor’s degree,Yes,8,Only when necessary,10,0,0,0,1,0,0,control,0,2
+24,21,Male,White,"",High School degree or equivalent,Yes,8,Once a year,8,0,0,0,0.5,0.5,0,control,0,1
+25,29,Male,White,"",Master’s degree,Yes,9,Only when necessary,5,0,1,5,0.5,0.5,1,quiz,0,0
+26,36,Female,White,"",Less than a high school diploma,No,6,Never,3,0,0,0,0.6,0.4,0,control,0,0
+27,30,Non-Binary,Other (please specify),SWANA,Bachelor’s degree,No,6,Only when necessary,7,1,0,0,0.75,0.25,1,video,0,1
+28,28,Male,White,"",High School degree or equivalent,No,8,Never,9,0,0,0,0.5,0.5,0,control,0,2
+29,23,Male,White,"",High School degree or equivalent,Yes,7,Once a year,7,0,0,0,0.5,0.5,0,control,0,1
+30,26,Female,Asian,"",Bachelor’s degree,Yes,8,Once a year,10,0,0,0,0.5,0.5,0,control,0,2
+31,31,Female,White,"",Bachelor’s degree,No,5,Never,5,0,1,4,0.39,0.61,1,quiz,0,0
+32,40,Female,White,"",High School degree or equivalent,Yes,8,Only when necessary,5,0,1,5,0.51,0.49,1,quiz,1,0
+33,27,Male,White,"",Master’s degree,No,9,Once in 6 months,10,0,0,0,0,1,0,control,0,2
+34,47,Female,White,"",Bachelor’s degree,Yes,7,Once a year,9,0,1,7,0.5,0.5,1,quiz,1,2
+35,31,Female,Asian,"",Bachelor’s degree,Yes,10,Once a year,0,0,0,0,0.5,0.5,0,control,0,0
+36,35,Male,White,"",Bachelor’s degree,Yes,6,Once a year,10,0,0,0,0.5,0.5,0,control,0,2
+37,29,Female,White,"",Master’s degree,Yes,8,Once a year,5,1,0,0,0.5,0.5,1,video,0,0
+38,24,Female,Asian,"",High School degree or equivalent,Yes,4,Only when necessary,8,1,0,0,0,1,1,video,0,1
+39,49,Male,White,"",Bachelor’s degree,Yes,10,Only when necessary,2,0,1,7,0,1,1,quiz,1,0
+40,27,Female,White,"",High School degree or equivalent,Yes,9,Only when necessary,3,1,0,0,0,1,1,video,0,0
+41,19,Female,Black or African American,"",High School degree or equivalent,Yes,7,Once a year,9,0,1,4,0.5,0.5,1,quiz,0,2
+42,19,Female,Asian,"",High School degree or equivalent,Yes,9,Only when necessary,5,0,0,0,0.5,0.5,0,control,0,0
+43,44,Male,White,"",Master’s degree,Yes,10,Once in 3 months,10,1,0,0,0.5,0.5,1,video,1,2
+44,20,Female,White,"",High School degree or equivalent,No,8,Once a year,9,0,0,0,0.5,0.5,0,control,0,2
+45,25,Female,White,"",Bachelor’s degree,Yes,7,Never,10,0,0,0,0.5,0.5,0,control,0,2
+46,19,Male,Asian,"",High School degree or equivalent,Yes,7,Once a year,10,0,0,0,0.5,0.5,0,control,0,2
+47,40,Male,Hispanic or Latino,"",Bachelor’s degree,Yes,8,Once a year,5,1,0,0,0.5,0.5,1,video,1,0
+48,25,Female,White,"",Bachelor’s degree,Yes,9,Once a year,9,0,0,0,0.5,0.5,0,control,0,2
+49,31,Male,White,"",Bachelor’s degree,Yes,9,Once a year,10,0,0,0,0.81,0.19,0,control,0,2
+50,63,Female,White,"",Bachelor’s degree,Yes,7,Once a year,10,1,0,0,0,1,1,video,1,2
+51,28,Female,Asian,"",Bachelor’s degree,Yes,9,Only when necessary,8,1,0,0,0.5,0.5,1,video,0,1
+52,45,Female,White,"",Bachelor’s degree,Yes,7,Once a year,10,0,1,4,0,1,1,quiz,1,2
+53,25,Female,White,"",High School degree or equivalent,Yes,7,Only when necessary,5,0,0,0,0.5,0.5,0,control,0,0
+54,23,Female,White,"",Bachelor’s degree,Yes,9,Only when necessary,10,1,0,0,1,0,1,video,0,2
+55,36,Male,White,"",Bachelor’s degree,No,8,Only when necessary,9,0,1,5,1,0,1,quiz,0,2
+56,24,Female,Hispanic or Latino,"",Bachelor’s degree,Yes,8,Once a year,8,0,0,0,0.67,0.33,0,control,0,1
+57,24,Male,Black or African American,"",Bachelor’s degree,No,7,Only when necessary,8,0,1,5,0,1,1,quiz,0,1
+58,25,Female,Other (please specify),half white half asian,Master’s degree,Yes,9,Only when necessary,8,0,0,0,0.5,0.5,0,control,0,1
+59,24,Male,Black or African American,"",High School degree or equivalent,Yes,7,Once a year,8,0,0,0,0,1,0,control,0,1
+60,17,Male,White,"",Less than a high school diploma,Yes,5,Once in 6 months,10,1,0,0,0.5,0.5,1,video,0,2
+61,51,Female,White,"",Master’s degree,Yes,7,Once a year,9,0,0,0,0.39,0.61,0,control,1,2
+62,21,Female,Black or African American,"",Bachelor’s degree,Yes,10,Once in 6 months,10,1,0,0,0.99,0.01,1,video,0,2
+63,30,Female,White,"",Bachelor’s degree,Yes,6,Only when necessary,10,1,0,0,0.5,0.5,1,video,0,2
+64,38,Male,White,"",Bachelor’s degree,No,3,Never,3,0,0,0,0.5,0.5,0,control,0,0
+65,44,Female,White,"",High School degree or equivalent,Yes,6,Once in 3 months,5,0,0,0,0,1,0,control,1,0
+66,33,Female,White,"",Doctorate,Yes,8,Once in 6 months,10,1,0,0,0.56,0.44,1,video,0,2
+67,59,Female,White,"",High School degree or equivalent,Yes,8,Only when necessary,3,0,0,0,1,0,0,control,1,0
+68,48,Male,Black or African American,"",Bachelor’s degree,Yes,8,Only when necessary,7,0,0,0,1,0,0,control,1,1
+69,20,Female,Asian,"",Bachelor’s degree,Yes,7,Never,9,0,0,0,0.5,0.5,0,control,0,2
+70,24,Male,White,"",High School degree or equivalent,Yes,6,Once a year,5,0,0,0,0.39,0.61,0,control,0,0
+71,41,Male,Black or African American,"",Doctorate,Yes,7,Once a year,9,0,1,6,0.5,0.5,1,quiz,1,2
+72,34,Female,Black or African American,"",High School degree or equivalent,Yes,9,Once a year,5,0,1,5,0.62,0.38,1,quiz,0,0
+73,20,Male,White,"",High School degree or equivalent,Yes,3,Once in 6 months,6,1,0,0,0.2,0.8,1,video,0,0
+74,25,Female,White,"",High School degree or equivalent,Yes,8,Once a year,5,0,0,0,0,1,0,control,0,0
+75,32,Female,White,"",Bachelor’s degree,Yes,7,Once a year,4,0,0,0,0,1,0,control,0,0
+76,42,Female,Hispanic or Latino,"",Bachelor’s degree,Yes,10,Once a year,10,0,1,4,0.89,0.11,1,quiz,1,2
+77,36,Male,White,"",Bachelor’s degree,Yes,5,Once a year,10,0,0,0,0.5,0.5,0,control,0,2
+78,22,Male,Asian,"",High School degree or equivalent,Yes,7,Once in 6 months,5,0,0,0,0.65,0.35,0,control,0,0
+79,28,Female,Asian,"",Bachelor’s degree,Yes,8,Only when necessary,6,1,0,0,1,0,1,video,0,0
+80,33,Male,Asian,"",High School degree or equivalent,No,7,Only when necessary,10,0,1,4,0.1,0.9,1,quiz,0,2
+81,22,Male,Hispanic or Latino,"",High School degree or equivalent,Yes,6,Only when necessary,10,0,0,0,0.8,0.2,0,control,0,2
+82,31,Female,White,"",Bachelor’s degree,Yes,8,Only when necessary,7,0,0,0,0.5,0.5,0,control,0,1
+83,25,Male,White,"",Bachelor’s degree,Yes,8,Once in 6 months,10,0,0,0,0.5,0.5,0,control,0,2
+84,20,Male,White,"",High School degree or equivalent,No,8,Only when necessary,2,1,0,0,0,1,1,video,0,0
+85,28,Male,Hispanic or Latino,"",Bachelor’s degree,Yes,5,Only when necessary,9,1,0,0,1,0,1,video,0,2
+86,25,Male,Black or African American,"",Bachelor’s degree,Yes,8,Once a year,10,1,0,0,1,0,1,video,0,2
+87,57,Male,White,"",High School degree or equivalent,Yes,7,Only when necessary,7,0,0,0,0.3,0.7,0,control,1,1
+88,25,Female,Hispanic or Latino,"",Bachelor’s degree,Yes,8,Only when necessary,2,0,1,4,1,0,1,quiz,0,0
+89,33,Male,White,"",Bachelor’s degree,Yes,8,Once a year,8,0,1,4,0.5,0.5,1,quiz,0,1
+90,31,Male,White,"",Bachelor’s degree,Yes,9,Only when necessary,8,0,0,0,0.7,0.3,0,control,0,1
+91,21,Male,White,"",High School degree or equivalent,Yes,8,Only when necessary,7,1,0,0,0.2,0.8,1,video,0,1
+92,35,Female,White,"",Bachelor’s degree,Yes,7,Once a year,4,0,1,5,1,0,1,quiz,0,0
+93,51,Female,White,"",High School degree or equivalent,Yes,9,Once a year,5,0,0,0,0.5,0.5,0,control,1,0
+94,61,Female,White,"",High School degree or equivalent,Yes,6,Once in 3 months,0,1,0,0,0,1,1,video,1,0
+95,74,Male,White,"",High School degree or equivalent,Yes,7,Once a year,10,1,0,0,0.51,0.49,1,video,1,2
+96,55,Male,Black or African American,"",High School degree or equivalent,Yes,8,Only when necessary,5,0,0,0,0.5,0.5,0,control,1,0
+97,28,Female,White,"",Master’s degree,Yes,8,Once a year,7,0,1,5,0.5,0.5,1,quiz,0,1
+98,27,Female,Hispanic or Latino,"",Bachelor’s degree,No,5,Only when necessary,4,1,0,0,0.2,0.8,1,video,0,0
+99,34,Male,White,"",Bachelor’s degree,No,7,Only when necessary,5,0,1,6,0.23,0.77,1,quiz,0,0
+100,22,Female,Asian,"",Bachelor’s degree,Yes,8,Only when necessary,10,0,1,3,0.7,0.3,1,quiz,0,2
+101,21,Female,White,"",High School degree or equivalent,Yes,5,Once in 6 months,10,1,0,0,0.5,0.5,1,video,0,2
+102,30,Male,White,"",Bachelor’s degree,Yes,9,Only when necessary,8,0,1,7,1,0,1,quiz,0,1
+103,45,Male,White,"",High School degree or equivalent,Yes,6,Once a year,10,0,0,0,0.5,0.5,0,control,1,2
+104,21,Male,White,"",High School degree or equivalent,Yes,7,Only when necessary,10,0,0,0,0.5,0.5,0,control,0,2
+105,42,Female,White,"",Bachelor’s degree,Yes,6,Once in 6 months,10,1,0,0,1,0,1,video,1,2
+106,31,Male,White,"",Bachelor’s degree,Yes,5,Once in 3 months,5,1,0,0,0.4,0.6,1,video,0,0
+107,35,Female,White,"",Bachelor’s degree,Yes,9,Only when necessary,6,1,0,0,0.5,0.5,1,video,0,0
+108,26,Female,Hispanic or Latino,"",Bachelor’s degree,No,8,Once a year,1,0,0,0,0.26,0.74,0,control,0,0
+109,30,Male,White,"",Bachelor’s degree,Yes,7,Once a year,10,0,1,6,0.71,0.29,1,quiz,0,2
+110,22,Female,White,"",High School degree or equivalent,Yes,7,Only when necessary,0,1,0,0,0,1,1,video,0,0
+111,33,Female,White,"",Bachelor’s degree,Yes,2,Once in 3 months,10,0,0,0,0.51,0.49,0,control,0,2
+112,20,Female,White,"",High School degree or equivalent,Yes,7,Once in 6 months,10,1,0,0,0.5,0.5,1,video,0,2
+113,27,Male,White,"",High School degree or equivalent,Yes,10,Only when necessary,7,1,0,0,0.44,0.56,1,video,0,1
+114,31,Female,White,"",Master’s degree,Yes,9,Once a year,7,0,1,2,0,1,1,quiz,0,1
+115,42,Female,Other (please specify),asian white,High School degree or equivalent,Yes,6,Once a year,5,0,1,5,0.7,0.3,1,quiz,1,0
+116,21,Female,Black or African American,"",High School degree or equivalent,Yes,5,Only when necessary,10,1,0,0,0.18,0.82,1,video,0,2
+117,40,Female,Black or African American,"",Bachelor’s degree,Yes,4,Once a year,8,0,1,6,0,1,1,quiz,1,1
+118,37,Female,Asian,"",High School degree or equivalent,No,7,Once in 6 months,10,0,0,0,0.5,0.5,0,control,0,2
+119,39,Male,White,"",High School degree or equivalent,No,8,Only when necessary,7,0,0,0,0.44,0.56,0,control,0,1
+120,28,Female,White,"",Bachelor’s degree,Yes,7,Once a year,6,0,0,0,0.5,0.5,0,control,0,0
+121,22,Female,White,"",High School degree or equivalent,Yes,7,Only when necessary,5,1,0,0,0.5,0.5,1,video,0,0
+122,20,Female,Asian,"",High School degree or equivalent,Yes,9,Once a year,7,0,1,4,0.5,0.5,1,quiz,0,1
+123,37,Female,White,"",Doctorate,Yes,7,Only when necessary,9,0,0,0,1,0,0,control,0,2
+124,33,Male,Asian,"",Master’s degree,Yes,4,Once a year,10,0,0,0,0.7,0.3,0,control,0,2
+125,19,Male,Black or African American,"",High School degree or equivalent,Yes,10,Once a year,0,0,0,0,0.62,0.38,0,control,0,0
+126,28,Female,White,"",Bachelor’s degree,Yes,7,Once a year,8,0,0,0,0.71,0.29,0,control,0,1
+127,32,Female,White,"",High School degree or equivalent,Yes,7,Only when necessary,1,0,1,3,0.7,0.3,1,quiz,0,0
+128,37,Female,White,"",High School degree or equivalent,Yes,5,Once in 3 months,10,0,1,6,1,0,1,quiz,0,2
+129,25,Female,White,"",Master’s degree,Yes,4,Once a year,10,0,1,6,0,1,1,quiz,0,2
+130,19,Female,White,"",High School degree or equivalent,Yes,5,Once a year,8,1,0,0,0.5,0.5,1,video,0,1
+131,23,Female,Black or African American,"",High School degree or equivalent,No,4,Only when necessary,6,1,0,0,0.56,0.44,1,video,0,0
+132,39,Female,White,"",Master’s degree,Yes,0,Once in 3 months,10,0,1,5,0.5,0.5,1,quiz,0,2
+133,40,Female,Black or African American,"",High School degree or equivalent,Yes,5,Once in 6 months,3,0,0,0,0.33,0.67,0,control,1,0
+134,23,Female,White,"",Bachelor’s degree,Yes,10,Only when necessary,9,0,1,5,1,0,1,quiz,0,2
+135,42,Male,White,"",Master’s degree,No,7,Only when necessary,5,1,0,0,0.7,0.3,1,video,1,0
+136,30,Male,White,"",Bachelor’s degree,Yes,7,Once a year,9,1,0,0,0.5,0.5,1,video,0,2
+137,32,Female,White,"",High School degree or equivalent,Yes,4,Once a year,4,0,0,0,0,1,0,control,0,0
+138,22,Male,White,"",High School degree or equivalent,No,5,Only when necessary,10,1,0,0,1,0,1,video,0,2
+139,35,Male,Hispanic or Latino,"",High School degree or equivalent,Yes,8,Only when necessary,9,1,0,0,0.5,0.5,1,video,0,2
+140,31,Female,White,"",Bachelor’s degree,Yes,4,Once in 3 months,10,0,0,0,0,1,0,control,0,2
+141,28,Male,White,"",Bachelor’s degree,Yes,7,Only when necessary,10,0,1,4,0.71,0.29,1,quiz,0,2
+142,37,Female,White,"",Bachelor’s degree,Yes,8,Once in 6 months,8,0,0,0,0.7,0.3,0,control,0,1
+143,32,Non-Binary,White,"",Master’s degree,Yes,8,Once a year,8,1,0,0,0,1,1,video,0,1
+144,29,Male,White,"",High School degree or equivalent,Yes,6,Never,6,1,0,0,1,0,1,video,0,0
+145,64,Female,White,"",High School degree or equivalent,No,10,Once a year,5,0,0,0,0.51,0.49,0,control,1,0
+146,64,Female,Black or African American,"",Bachelor’s degree,Yes,7,Once a year,3,0,0,0,0.02,0.98,0,control,1,0
+147,46,Female,White,"",Bachelor’s degree,Yes,7,Once a year,2,0,0,0,0.2,0.8,0,control,1,0
+148,30,Male,White,"",Master’s degree,Yes,9,Only when necessary,6,0,0,0,1,0,0,control,0,0
+149,34,Female,White,"",Other (please specify),No,7,Never,6,0,0,0,0,1,0,control,0,0
+150,35,Male,White,"",High School degree or equivalent,Yes,4,Only when necessary,4,0,0,0,0.3,0.7,0,control,0,0
+151,20,Male,White,"",High School degree or equivalent,No,8,Once in 6 months,1,1,0,0,0.5,0.5,1,video,0,0
+152,23,Female,White,"",Bachelor’s degree,Yes,8,Only when necessary,8,0,0,0,0.5,0.5,0,control,0,1
+153,33,Male,Hispanic or Latino,"",High School degree or equivalent,No,3,Only when necessary,10,0,1,3,0.5,0.5,1,quiz,0,2
+154,21,Female,White,"",High School degree or equivalent,Yes,8,Once a year,10,0,1,5,0.5,0.5,1,quiz,0,2
+155,28,Male,White,"",High School degree or equivalent,No,7,Never,10,0,1,4,0.8,0.2,1,quiz,0,2
+156,26,Male,White,"",High School degree or equivalent,Yes,8,Only when necessary,5,0,1,6,0.49,0.51,1,quiz,0,0
+157,26,Male,Hispanic or Latino,"",High School degree or equivalent,Yes,7,Only when necessary,8,0,1,7,0.5,0.5,1,quiz,0,1
+158,22,Female,Black or African American,"",High School degree or equivalent,Yes,5,Once in 3 months,0,0,1,4,0,1,1,quiz,0,0
+159,20,Female,White,"",High School degree or equivalent,Yes,7,Only when necessary,10,1,0,0,0.5,0.5,1,video,0,2
+160,25,Female,Black or African American,"",Bachelor’s degree,Yes,7,Once in 6 months,7,0,1,5,0.5,0.5,1,quiz,0,1
+161,26,Male,Hispanic or Latino,"",Bachelor’s degree,Yes,7,Only when necessary,8,0,1,4,0.5,0.5,1,quiz,0,1
+162,33,Female,White,"",Bachelor’s degree,Yes,7,Once a year,10,0,1,7,0.5,0.5,1,quiz,0,2
+163,23,Male,White,"",Bachelor’s degree,Yes,10,Once a year,10,0,0,0,0.39,0.61,0,control,0,2
+164,31,Male,White,"",Bachelor’s degree,Yes,8,Once a year,5,0,1,6,0.5,0.5,1,quiz,0,0
+165,60,Female,White,"",High School degree or equivalent,Yes,7,Once a year,10,0,1,6,0.8,0.2,1,quiz,1,2
+166,45,Male,Black or African American,"",High School degree or equivalent,Yes,6,Once in 6 months,6,0,0,0,0.68,0.32,0,control,1,0
+167,29,Female,White,"",Other (please specify),Yes,7,Once in 6 months,9,0,0,0,0.49,0.51,0,control,0,2
+168,50,Female,White,"",Master’s degree,Yes,7,Once a year,10,0,0,0,0.5,0.5,0,control,1,2
+169,42,Female,White,"",Bachelor’s degree,Yes,8,Once a year,10,0,1,5,0.52,0.48,1,quiz,1,2
+170,40,Male,Asian,"",Bachelor’s degree,Yes,8,Once a year,9,1,0,0,0.6,0.4,1,video,1,2
+171,30,Male,White,"",Bachelor’s degree,No,8,Never,0,0,1,4,0.8,0.2,1,quiz,0,0
+172,19,Male,White,"",High School degree or equivalent,Yes,8,Once a year,10,0,0,0,1,0,0,control,0,2
+173,37,Male,Black or African American,"",Other (please specify),Yes,5,Once in 3 months,9,1,0,0,0.51,0.49,1,video,0,2
+174,31,Female,Asian,"",Master’s degree,Yes,7,Once a year,2,0,1,4,0.14,0.86,1,quiz,0,0
+175,50,Female,White,"",Other (please specify),Yes,9,Once a year,3,0,1,6,1,0,1,quiz,1,0
+176,19,Male,White,"",High School degree or equivalent,Yes,8,Once a year,9,0,1,4,0.5,0.5,1,quiz,0,2
+177,42,Female,White,"",Bachelor’s degree,Yes,8,Only when necessary,3,0,1,5,0.51,0.49,1,quiz,1,0
+178,47,Female,White,"",Master’s degree,Yes,7,Once a year,10,0,1,4,0.8,0.2,1,quiz,1,2
+179,41,Female,White,"",High School degree or equivalent,Yes,8,Once a year,10,1,0,0,0.5,0.5,1,video,1,2
+180,24,Male,Asian,"",Master’s degree,Yes,4,Only when necessary,8,0,0,0,0.5,0.5,0,control,0,1
+181,27,Female,White,"",Bachelor’s degree,Yes,8,Once a year,9,0,0,0,0.2,0.8,0,control,0,2
+182,60,Female,White,"",High School degree or equivalent,Yes,8,Once in 6 months,10,1,0,0,0.51,0.49,1,video,1,2
+183,35,Female,Black or African American,"",Master’s degree,Yes,5,Once a year,5,0,0,0,0.9,0.1,0,control,0,0
+184,41,Male,White,"",Bachelor’s degree,Yes,8,Once in 6 months,7,0,0,0,0.57,0.43,0,control,1,1
+185,33,Male,White,"",High School degree or equivalent,Yes,9,Once a year,6,0,1,4,0.49,0.51,1,quiz,0,0
+186,41,Male,White,"",High School degree or equivalent,Yes,4,Only when necessary,7,0,0,0,1,0,0,control,1,1
+187,61,Female,White,"",High School degree or equivalent,No,8,Only when necessary,0,0,1,5,0.3,0.7,1,quiz,1,0
+188,38,Female,White,"",High School degree or equivalent,Yes,8,Only when necessary,8,0,1,3,0.5,0.5,1,quiz,0,1
+189,27,Male,White,"",Master’s degree,Yes,8,Once a year,10,1,0,0,0.75,0.25,1,video,0,2
+190,32,Female,White,"",Bachelor’s degree,Yes,6,Only when necessary,6,0,0,0,0.5,0.5,0,control,0,0
+191,59,Female,White,"",Master’s degree,Yes,4,Only when necessary,4,1,0,0,0.91,0.09,1,video,1,0
+192,34,Male,White,"",Bachelor’s degree,Yes,9,Only when necessary,3,1,0,0,0.21,0.79,1,video,0,0
+193,28,Female,White,"",Master’s degree,Yes,9,Once a year,6,0,1,5,0.5,0.5,1,quiz,0,0
+194,31,Female,White,"",Bachelor’s degree,Yes,10,Only when necessary,8,0,1,4,0.4,0.6,1,quiz,0,1
+195,19,Male,Asian,"",High School degree or equivalent,Yes,8,Once a year,10,0,0,0,0.5,0.5,0,control,0,2
+196,33,Female,Asian,"",Bachelor’s degree,Yes,7,Only when necessary,8,0,1,5,0.5,0.5,1,quiz,0,1
+197,23,Female,Hispanic or Latino,"",Bachelor’s degree,Yes,8,Once a year,10,0,0,0,0.5,0.5,0,control,0,2
+198,70,Male,White,"",Master’s degree,Yes,8,Once a year,9,0,1,6,0.5,0.5,1,quiz,1,2
+199,33,Female,Asian,"",Master’s degree,Yes,9,Only when necessary,5,1,0,0,0.5,0.5,1,video,0,0
+200,19,Non-Binary,White,"",High School degree or equivalent,Yes,6,Once in 6 months,10,0,0,0,0,1,0,control,0,2
+201,24,Female,White,"",Bachelor’s degree,Yes,8,Once a year,10,0,0,0,0.07,0.93,0,control,0,2
+202,33,Female,White,"",Bachelor’s degree,Yes,7,Only when necessary,4,0,0,0,0,1,0,control,0,0
+203,20,Male,White,"",High School degree or equivalent,No,8,Once in 3 months,4,1,0,0,0.19,0.81,1,video,0,0
+204,23,Female,Asian,"",Bachelor’s degree,Yes,8,Once a year,10,0,1,3,0.5,0.5,1,quiz,0,2
+205,24,Female,White,"",High School degree or equivalent,Yes,6,Once in 6 months,10,0,1,6,0.5,0.5,1,quiz,0,2
+206,33,Female,White,"",High School degree or equivalent,Yes,8,Once a year,5,0,0,0,0.5,0.5,0,control,0,0
+207,46,Female,White,"",Bachelor’s degree,Yes,7,Only when necessary,10,0,0,0,0.51,0.49,0,control,1,2
+208,49,Male,White,"",Master’s degree,Yes,7,Once a year,7,1,0,0,1,0,1,video,1,1
+209,53,Female,White,"",Other (please specify),Yes,2,Once in 6 months,0,1,0,0,0.5,0.5,1,video,1,0
+210,26,Male,Black or African American,"",Bachelor’s degree,Yes,9,Once in 6 months,10,1,0,0,0.5,0.5,1,video,0,2
+211,33,Male,White,"",Master’s degree,Yes,8,Only when necessary,10,0,1,7,0.5,0.5,1,quiz,0,2
+212,46,Female,White,"",High School degree or equivalent,Yes,6,Once in 6 months,10,0,1,5,0.5,0.5,1,quiz,1,2
+213,50,Female,Black or African American,"",Bachelor’s degree,Yes,6,Once in 6 months,10,0,1,6,0.5,0.5,1,quiz,1,2
+214,25,Male,Other (please specify),Mixed Race,High School degree or equivalent,Yes,7,Once a year,10,1,0,0,0.5,0.5,1,video,0,2
+215,20,Female,White,"",High School degree or equivalent,Yes,5,Only when necessary,10,0,0,0,0.5,0.5,0,control,0,2
+216,30,Male,White,"",Bachelor’s degree,No,5,Only when necessary,10,1,0,0,0.5,0.5,1,video,0,2
+217,26,Male,Asian,"",High School degree or equivalent,Yes,3,Never,9,1,0,0,0.2,0.8,1,video,0,2
+218,37,Female,White,"",Bachelor’s degree,Yes,7,Only when necessary,6,0,1,5,0.5,0.5,1,quiz,0,0
+219,23,Female,White,"",Bachelor’s degree,Yes,7,Only when necessary,9,1,0,0,0.49,0.51,1,video,0,2
+220,38,Female,White,"",Bachelor’s degree,Yes,9,Once a year,9,0,0,0,0.51,0.49,0,control,0,2
+221,27,Male,White,"",High School degree or equivalent,No,4,Never,6,1,0,0,0,1,1,video,0,0
+222,22,Female,Other (please specify),Mixed,High School degree or equivalent,Yes,7,Once a year,9,1,0,0,0.5,0.5,1,video,0,2
+223,29,Male,Black or African American,"",Bachelor’s degree,Yes,8,Only when necessary,6,0,0,0,0.5,0.5,0,control,0,0
+224,30,Female,White,"",Bachelor’s degree,Yes,9,Only when necessary,5,0,1,5,0.5,0.5,1,quiz,0,0
+225,25,Male,Asian,"",Bachelor’s degree,Yes,6,Once in 6 months,5,0,0,0,0.64,0.36,0,control,0,0
+226,38,Female,Other (please specify),Jewish,Bachelor’s degree,Yes,9,Once a year,6,0,1,5,0.6,0.4,1,quiz,0,0
+227,26,Female,White,"",Other (please specify),No,9,Only when necessary,0,0,0,0,0.57,0.43,0,control,0,0
+228,53,Female,White,"",Bachelor’s degree,Yes,8,Once in 6 months,10,1,0,0,0.5,0.5,1,video,1,2
+229,29,Female,Hispanic or Latino,"",High School degree or equivalent,Yes,7,Only when necessary,4,0,1,5,0.12,0.88,1,quiz,0,0
+230,23,Non-Binary,Other (please specify),Middle Eastern,Other (please specify),Yes,8,Only when necessary,8,0,1,2,0.16,0.84,1,quiz,0,1
+231,24,Female,White,"",Bachelor’s degree,Yes,8,Only when necessary,7,1,0,0,0.6,0.4,1,video,0,1
+232,35,Female,White,"",Bachelor’s degree,Yes,8,Only when necessary,9,0,0,0,0.5,0.5,0,control,0,2
+233,73,Female,White,"",Bachelor’s degree,Yes,10,Once a year,10,0,1,4,0.5,0.5,1,quiz,1,2
+234,23,Male,Hispanic or Latino,"",Bachelor’s degree,Yes,8,Once a year,10,0,1,3,0.39,0.61,1,quiz,0,2
+235,55,Female,Asian,"",High School degree or equivalent,Yes,8,Once a year,0,1,0,0,1,0,1,video,1,0
+236,38,Male,White,"",Bachelor’s degree,Yes,8,Once in 6 months,7,0,0,0,0.28,0.72,0,control,0,1
+237,50,Male,White,"",Bachelor’s degree,No,8,Only when necessary,5,1,0,0,0.5,0.5,1,video,1,0
+238,29,Female,White,"",High School degree or equivalent,Yes,9,Only when necessary,0,1,0,0,0,1,1,video,0,0
+239,25,Female,Hispanic or Latino,"",High School degree or equivalent,Yes,10,Once in 6 months,10,0,1,5,1,0,1,quiz,0,2
+240,20,Male,Asian,"",High School degree or equivalent,Yes,9,Once in 6 months,7,0,0,0,0.5,0.5,0,control,0,1
+241,38,Male,Hispanic or Latino,"",Bachelor’s degree,Yes,8,Only when necessary,5,0,1,3,0.47,0.53,1,quiz,0,0
+242,34,Female,White,"",Bachelor’s degree,Yes,9,Once a year,10,1,0,0,0.6,0.4,1,video,0,2
+243,35,Female,White,"",Master’s degree,Yes,6,Once a year,9,0,1,4,0.5,0.5,1,quiz,0,2
+244,67,Female,White,"",High School degree or equivalent,Yes,9,Once in 6 months,5,0,1,3,0.5,0.5,1,quiz,1,0
+245,32,Male,White,"",Master’s degree,Yes,6,Once in 6 months,9,1,0,0,0.5,0.5,1,video,0,2
+246,50,Female,White,"",High School degree or equivalent,Yes,5,Once in 3 months,10,0,0,0,0.4,0.6,0,control,1,2
+247,31,Male,White,"",Doctorate,Yes,8,Only when necessary,4,1,0,0,0,1,1,video,0,0
+248,30,Female,White,"",Bachelor’s degree,Yes,8,Only when necessary,5,0,1,5,0.5,0.5,1,quiz,0,0
+249,37,Male,White,"",Less than a high school diploma,Yes,7,Once a year,0,1,0,0,0.5,0.5,1,video,0,0
+250,42,Female,White,"",Bachelor’s degree,Yes,5,Once in 3 months,0,0,1,5,0.1,0.9,1,quiz,1,0
+251,32,Male,White,"",Bachelor’s degree,Yes,7,Only when necessary,3,1,0,0,0.56,0.44,1,video,0,0
+252,48,Female,White,"",High School degree or equivalent,Yes,8,Only when necessary,5,0,1,5,0.5,0.5,1,quiz,1,0
+253,43,Female,White,"",Master’s degree,Yes,8,Once a year,9,1,0,0,0,1,1,video,1,2
+254,36,Male,White,"",Master’s degree,Yes,5,Only when necessary,8,0,0,0,0.5,0.5,0,control,0,1
+255,45,Female,White,"",Other (please specify),Yes,10,Only when necessary,5,1,0,0,0.99,0.01,1,video,1,0
+256,40,Male,Black or African American,"",High School degree or equivalent,Yes,7,Once in 3 months,3,1,0,0,0.5,0.5,1,video,1,0
+257,46,Male,White,"",Other (please specify),Yes,9,Once a year,8,1,0,0,1,0,1,video,1,1
+258,36,Female,White,"",Doctorate,Yes,8,Only when necessary,7,0,1,6,0.5,0.5,1,quiz,0,1
+259,22,Female,Other (please specify),Middle Eastern,Bachelor’s degree,Yes,8,Only when necessary,9,0,1,5,0.5,0.5,1,quiz,0,2
+260,28,Female,White,"",Master’s degree,Yes,7,Once a year,10,1,0,0,0.55,0.45,1,video,0,2
+261,33,Female,White,"",High School degree or equivalent,Yes,7,Only when necessary,8,0,1,5,0.4,0.6,1,quiz,0,1
+262,43,Male,White,"",Master’s degree,No,8,Only when necessary,10,0,1,5,0.5,0.5,1,quiz,1,2
+263,30,Female,White,"",High School degree or equivalent,No,7,Only when necessary,8,0,0,0,0.25,0.75,0,control,0,1
+264,20,Non-Binary,White,"",High School degree or equivalent,Yes,10,Once a year,7,1,0,0,0.4,0.6,1,video,0,1
+265,22,Male,Hispanic or Latino,"",Bachelor’s degree,Yes,7,Once a year,6,0,0,0,0,1,0,control,0,0
+266,41,Male,White,"",Bachelor’s degree,Yes,7,Once a year,5,1,0,0,0.5,0.5,1,video,1,0
+267,28,Female,Black or African American,"",Bachelor’s degree,No,10,Only when necessary,6,0,1,5,0.5,0.5,1,quiz,0,0
+268,23,Male,White,"",Bachelor’s degree,Yes,6,Only when necessary,6,1,0,0,0.49,0.51,1,video,0,0
+269,20,Female,Hispanic or Latino,"",High School degree or equivalent,Yes,8,Once a year,8,1,0,0,0.5,0.5,1,video,0,1
+270,53,Female,White,"",Bachelor’s degree,Yes,5,Once a year,10,0,1,7,0.19,0.81,1,quiz,1,2
+271,25,Female,White,"",Bachelor’s degree,Yes,8,Once a year,10,1,0,0,0.5,0.5,1,video,0,2
+272,20,Female,White,"",Less than a high school diploma,Yes,8,Only when necessary,8,1,0,0,0.49,0.51,1,video,0,1
+273,44,Female,Black or African American,"",Bachelor’s degree,Yes,7,Once in 6 months,9,0,0,0,0.5,0.5,0,control,1,2
+274,23,Female,White,"",Bachelor’s degree,Yes,10,Once a year,10,0,0,0,0.38,0.62,0,control,0,2
+275,21,Female,Hispanic or Latino,"",High School degree or equivalent,Yes,5,Once a year,5,0,0,0,0.5,0.5,0,control,0,0
+276,34,Male,White,"",High School degree or equivalent,Yes,6,Only when necessary,8,0,1,5,0.62,0.38,1,quiz,0,1
+277,30,Female,Hispanic or Latino,"",Bachelor’s degree,Yes,5,Once in 6 months,10,0,0,0,0.5,0.5,0,control,0,2
+278,30,Male,White,"",Bachelor’s degree,Yes,9,Once in 3 months,10,1,0,0,0.8,0.2,1,video,0,2
+279,32,Female,White,"",High School degree or equivalent,Yes,9,Only when necessary,5,1,0,0,0,1,1,video,0,0
+280,31,Male,White,"",Bachelor’s degree,Yes,7,Only when necessary,8,1,0,0,0.5,0.5,1,video,0,1
+281,28,Female,White,"",High School degree or equivalent,No,8,Never,6,0,0,0,0.5,0.5,0,control,0,0
+282,30,Female,White,"",Other (please specify),Yes,6,Only when necessary,6,0,1,6,0.55,0.45,1,quiz,0,0
+283,40,Male,White,"",High School degree or equivalent,Yes,5,Only when necessary,10,0,1,3,0.5,0.5,1,quiz,1,2
+284,26,Male,White,"",Bachelor’s degree,Yes,6,Only when necessary,5,1,0,0,0,1,1,video,0,0
+285,31,Female,Asian,"",Master’s degree,Yes,10,Once a year,10,0,1,4,1,0,1,quiz,0,2
+286,26,Non-Binary,Asian,"",Bachelor’s degree,Yes,8,Once a year,10,0,0,0,0,1,0,control,0,2
+287,64,Female,White,"",Bachelor’s degree,No,6,Only when necessary,0,1,0,0,0.01,0.99,1,video,1,0
+288,59,Female,Asian,"",Bachelor’s degree,Yes,7,Once a year,8,1,0,0,0.4,0.6,1,video,1,1
+289,37,Male,Black or African American,"",Bachelor’s degree,Yes,6,Once in 6 months,10,0,0,0,0.5,0.5,0,control,0,2
+290,20,Female,White,"",High School degree or equivalent,Yes,8,Once in 3 months,10,0,1,5,0.5,0.5,1,quiz,0,2
+291,39,Male,White,"",Doctorate,No,7,Only when necessary,5,1,0,0,0.71,0.29,1,video,0,0
+292,32,Female,White,"",Master’s degree,Yes,8,Only when necessary,8,1,0,0,0.1,0.9,1,video,0,1
+293,25,Male,White,"",Bachelor’s degree,Yes,8,Once a year,8,0,0,0,0.84,0.16,0,control,0,1
+294,49,Female,White,"",Bachelor’s degree,No,8,Never,5,0,0,0,0.18,0.82,0,control,1,0
+295,23,Male,Asian,"",Bachelor’s degree,Yes,7,Once a year,8,0,1,5,0.5,0.5,1,quiz,0,1
+296,26,Male,Asian,"",Bachelor’s degree,Yes,8,Only when necessary,10,0,0,0,0.2,0.8,0,control,0,2
+297,31,Female,White,"",Master’s degree,Yes,8,Once a year,8,1,0,0,0.5,0.5,1,video,0,1
+298,35,Female,White,"",Master’s degree,Yes,9,Once in 6 months,10,1,0,0,0.5,0.5,1,video,0,2
+299,49,Male,White,"",Master’s degree,Yes,10,Once in 6 months,9,1,0,0,0.59,0.41,1,video,1,2
+300,27,Male,White,"",Bachelor’s degree,No,6,Never,1,0,0,0,0.5,0.5,0,control,0,0
+301,31,Female,Black or African American,"",Master’s degree,Yes,9,Once in 6 months,10,0,1,6,0.43,0.57,1,quiz,0,2
+302,20,Female,Asian,"",High School degree or equivalent,Yes,8,Once a year,10,1,0,0,0.75,0.25,1,video,0,2
+303,44,Female,White,"",Bachelor’s degree,Yes,7,Only when necessary,10,0,0,0,0.5,0.5,0,control,1,2
+304,52,Male,White,"",Bachelor’s degree,Yes,7,Only when necessary,7,0,1,5,0.5,0.5,1,quiz,1,1
+305,57,Female,White,"",Master’s degree,Yes,9,Only when necessary,10,1,0,0,1,0,1,video,1,2
+306,27,Female,White,"",Bachelor’s degree,Yes,9,Once a year,9,0,0,0,0.5,0.5,0,control,0,2
+307,28,Female,Hispanic or Latino,"",Bachelor’s degree,No,3,Never,0,0,0,0,0,1,0,control,0,0
+308,34,Male,Hispanic or Latino,"",Other (please specify),No,5,Never,10,0,0,0,0.5,0.5,0,control,0,2
+309,32,Male,Other (please specify),"",Bachelor’s degree,Yes,8,Only when necessary,5,0,0,0,0,1,0,control,0,0
+310,40,Female,White,"",Bachelor’s degree,Yes,8,Once a year,10,0,1,5,0.83,0.17,1,quiz,1,2
+311,62,Male,White,"",High School degree or equivalent,Yes,8,Once in 6 months,0,1,0,0,0,1,1,video,1,0
+312,35,Female,White,"",High School degree or equivalent,No,8,Never,5,0,1,5,0.73,0.27,1,quiz,0,0
+313,23,Male,Asian,"",Bachelor’s degree,Yes,10,Once a year,10,0,1,4,0.5,0.5,1,quiz,0,2
+314,39,Male,White,"",High School degree or equivalent,No,7,Only when necessary,5,0,1,5,0.8,0.2,1,quiz,0,0
+315,21,Male,Black or African American,"",High School degree or equivalent,No,9,Only when necessary,4,0,0,0,0.5,0.5,0,control,0,0
+316,31,Male,White,"",Bachelor’s degree,Yes,8,Once a year,10,0,0,0,0.8,0.2,0,control,0,2
+317,65,Male,White,"",High School degree or equivalent,Yes,9,Once in 6 months,10,0,0,0,1,0,0,control,1,2
+318,26,Male,White,"",Bachelor’s degree,Yes,6,Only when necessary,7,0,1,7,0.8,0.2,1,quiz,0,1
+319,30,Female,White,"",Bachelor’s degree,Yes,7,Only when necessary,7,0,1,4,0.5,0.5,1,quiz,0,1
+320,19,Non-Binary,White,"",High School degree or equivalent,Yes,6,Once in 6 months,7,0,1,3,0.36,0.64,1,quiz,0,1
+321,20,Female,Asian,"",High School degree or equivalent,Yes,6,Once a year,10,0,0,0,0.44,0.56,0,control,0,2
+322,28,Female,White,"",High School degree or equivalent,Yes,7,Once in 3 months,0,1,0,0,0,1,1,video,0,0
+323,32,Female,White,"",High School degree or equivalent,Yes,9,Only when necessary,7,0,1,4,0.51,0.49,1,quiz,0,1
+324,30,Female,White,"",High School degree or equivalent,Yes,7,Only when necessary,0,1,0,0,0,1,1,video,0,0
+325,25,Male,Asian,"",Bachelor’s degree,Yes,8,Only when necessary,7,1,0,0,0.5,0.5,1,video,0,1
+326,32,Female,White,"",Bachelor’s degree,Yes,4,Only when necessary,7,0,1,4,0.5,0.5,1,quiz,0,1
+327,22,Male,Other (please specify),white asian,Bachelor’s degree,Yes,9,Once a year,9,0,1,2,0.82,0.18,1,quiz,0,2
+328,27,Non-Binary,White,"",Bachelor’s degree,Yes,8,Once a year,8,1,0,0,0.5,0.5,1,video,0,1
+329,56,Male,White,"",High School degree or equivalent,Yes,7,Never,5,0,1,5,1,0,1,quiz,1,0
+330,50,Female,White,"",Bachelor’s degree,Yes,10,Once a year,10,0,1,6,0.5,0.5,1,quiz,1,2
+331,20,Female,Other (please specify),"mixed race, white and asian",High School degree or equivalent,Yes,4,Only when necessary,7,1,0,0,0.23,0.77,1,video,0,1
+332,25,Male,White,"",Bachelor’s degree,Yes,8,Once a year,8,0,1,5,0.5,0.5,1,quiz,0,1
+333,32,Male,Hispanic or Latino,"",High School degree or equivalent,Yes,9,Once in 6 months,5,1,0,0,0.48,0.52,1,video,0,0
+334,40,Male,Asian,"",Bachelor’s degree,Yes,9,Once in 6 months,5,1,0,0,0,1,1,video,1,0
+335,22,Female,Asian,"",Bachelor’s degree,Yes,7,Only when necessary,7,0,1,6,0.54,0.46,1,quiz,0,1
+336,34,Female,White,"",Doctorate,Yes,9,Only when necessary,10,0,1,6,0.37,0.63,1,quiz,0,2
+337,41,Male,White,"",High School degree or equivalent,Yes,8,Once a year,5,0,0,0,0.5,0.5,0,control,1,0
+338,38,Male,Asian,"",Bachelor’s degree,Yes,7,Only when necessary,10,1,0,0,0.5,0.5,1,video,0,2
+339,50,Male,White,"",Bachelor’s degree,No,4,Only when necessary,10,1,0,0,0.45,0.55,1,video,1,2
+340,43,Female,White,"",Master’s degree,No,7,Only when necessary,5,1,0,0,0.5,0.5,1,video,1,0
+341,21,Female,Black or African American,"",High School degree or equivalent,Yes,7,Once in 6 months,9,0,1,4,0.51,0.49,1,quiz,0,2
+342,69,Male,Asian,"",Bachelor’s degree,Yes,7,Once a year,6,1,0,0,0.5,0.5,1,video,1,0
+343,37,Male,White,"",Master’s degree,Yes,7,Once a year,10,1,0,0,0.5,0.5,1,video,0,2
+344,29,Female,White,"",Bachelor’s degree,Yes,7,Only when necessary,1,1,0,0,0,1,1,video,0,0
+345,22,Non-Binary,Asian,"",Bachelor’s degree,Yes,8,Only when necessary,9,1,0,0,0.5,0.5,1,video,0,2
+346,24,Male,White,"",Bachelor’s degree,Yes,6,Only when necessary,3,0,1,5,0.11,0.89,1,quiz,0,0
+347,40,Male,White,"",Master’s degree,Yes,8,Once in 3 months,9,0,1,5,0.46,0.54,1,quiz,1,2
+348,37,Female,White,"",Doctorate,Yes,7,Once in 6 months,10,0,1,4,0.49,0.51,1,quiz,0,2
+349,61,Male,White,"",High School degree or equivalent,Yes,8,Never,9,1,0,0,0.8,0.2,1,video,1,2
+350,34,Male,White,"",High School degree or equivalent,No,7,Only when necessary,0,0,0,0,1,0,0,control,0,0
+351,51,Male,Asian,"",Bachelor’s degree,No,8,Once a year,8,0,0,0,0.98,0.02,0,control,1,1
+352,30,Male,White,"",Master’s degree,Yes,8,Never,7,1,0,0,1,0,1,video,0,1
+353,58,Female,White,"",Bachelor’s degree,Yes,8,Once a year,8,0,0,0,1,0,0,control,1,1
+354,49,Male,White,"",Other (please specify),Yes,8,Only when necessary,8,0,1,4,0.75,0.25,1,quiz,1,1
+355,63,Male,White,"",Other (please specify),Yes,8,Once a year,10,1,0,0,1,0,1,video,1,2
+356,37,Male,Asian,"",Bachelor’s degree,Yes,7,Never,7,0,1,4,0.8,0.2,1,quiz,0,1
+357,69,Female,White,"",Bachelor’s degree,Yes,2,Once in 3 months,10,1,0,0,1,0,1,video,1,2
+358,32,Male,White,"",Bachelor’s degree,No,9,Once in 6 months,9,0,1,6,0.5,0.5,1,quiz,0,2
+359,49,Female,Asian,"",Bachelor’s degree,Yes,7,Once a year,8,0,1,4,0.5,0.5,1,quiz,1,1
+360,26,Male,White,"",High School degree or equivalent,Yes,8,Only when necessary,6,0,1,6,0.8,0.2,1,quiz,0,0
+361,20,Female,Other (please specify),mixed white and native american,High School degree or equivalent,Yes,5,Only when necessary,10,1,0,0,0.27,0.73,1,video,0,2
+362,26,Female,White,"",High School degree or equivalent,Yes,8,Only when necessary,5,1,0,0,0.5,0.5,1,video,0,0
+363,34,Male,White,"",High School degree or equivalent,Yes,5,Once in 6 months,1,0,1,6,0.5,0.5,1,quiz,0,0
+364,38,Male,White,"",Bachelor’s degree,No,9,Only when necessary,8,0,0,0,0.5,0.5,0,control,0,1
+365,64,Female,Black or African American,"",High School degree or equivalent,Yes,8,Once a year,3,1,0,0,0.3,0.7,1,video,1,0
+366,42,Male,White,"",Master’s degree,Yes,9,Once in 3 months,9,0,1,7,0.46,0.54,1,quiz,1,2
+367,36,Male,Other (please specify),Multi-racial,High School degree or equivalent,Yes,5,Once a year,3,1,0,0,0.5,0.5,1,video,0,0
+368,48,Female,White,"",Other (please specify),Yes,9,Once a year,5,0,1,6,0.5,0.5,1,quiz,1,0
+369,58,Female,White,"",Master’s degree,Yes,7,Only when necessary,3,0,1,3,1,0,1,quiz,1,0
+370,32,Male,White,"",Bachelor’s degree,Yes,7,Once a year,8,1,0,0,0.5,0.5,1,video,0,1
+371,40,Female,White,"",Master’s degree,Yes,8,Once a year,6,1,0,0,0.71,0.29,1,video,1,0
+372,53,Female,Black or African American,"",Master’s degree,Yes,8,Once a year,9,0,1,4,0.5,0.5,1,quiz,1,2
+373,24,Female,White,"",High School degree or equivalent,Yes,4,Once in 6 months,0,1,0,0,0,1,1,video,0,0
+374,38,Male,White,"",Master’s degree,Yes,8,Once a year,8,0,1,6,0.95,0.05,1,quiz,0,1
+375,32,Female,White,"",Bachelor’s degree,Yes,8,Once in 6 months,6,0,0,0,1,0,0,control,0,0
+376,29,Male,White,"",Bachelor’s degree,Yes,8,Only when necessary,6,1,0,0,0.5,0.5,1,video,0,0
+377,36,Female,Other (please specify),Mixed race,Bachelor’s degree,Yes,7,Once in 6 months,10,0,1,4,0.5,0.5,1,quiz,0,2
+378,49,Female,Black or African American,"",Bachelor’s degree,Yes,5,Once in 6 months,5,0,0,0,0.49,0.51,0,control,1,0
+379,30,Male,White,"",Bachelor’s degree,Yes,8,Once a year,7,0,0,0,0.48,0.52,0,control,0,1
+380,44,Male,White,"",High School degree or equivalent,Yes,7,Once a year,5,1,0,0,0.7,0.3,1,video,1,0
+381,37,Female,White,"",Bachelor’s degree,Yes,8,Once in 3 months,10,0,1,5,0.55,0.45,1,quiz,0,2
+382,28,Male,Black or African American,"",Less than a high school diploma,No,8,Only when necessary,3,0,1,3,0.5,0.5,1,quiz,0,0
+383,41,Male,White,"",Bachelor’s degree,Yes,8,Once in 6 months,8,1,0,0,0.48,0.52,1,video,1,1
+384,39,Male,White,"",Master’s degree,Yes,6,Once in 6 months,10,0,0,0,1,0,0,control,0,2
+385,68,Female,White,"",Bachelor’s degree,Yes,8,Once in 6 months,9,1,0,0,0.61,0.39,1,video,1,2
+386,37,Male,Asian,"",Master’s degree,Yes,9,Once a year,9,0,1,5,0.11,0.89,1,quiz,0,2
+387,28,Female,White,"",Master’s degree,Yes,7,Once a year,10,1,0,0,0.7,0.3,1,video,0,2
+388,32,Male,White,"",Doctorate,No,8,Once a year,8,0,1,6,0.3,0.7,1,quiz,0,1
+389,52,Male,Hispanic or Latino,"",Master’s degree,Yes,8,Once a year,9,1,0,0,0.95,0.05,1,video,1,2
+390,40,Female,White,"",Bachelor’s degree,Yes,6,Only when necessary,8,1,0,0,0.7,0.3,1,video,1,1
+391,33,Female,Other (please specify),Mixed race,Other (please specify),Yes,6,Only when necessary,7,0,1,3,0.48,0.52,1,quiz,0,1
